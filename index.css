@@ -1,0 +1,15 @@
+
+
+#lightgreen {
+    background-color: lightgreen;
+    margin: 10% 32%;
+}
+
+.center {
+    text-align: center;
+    border: none;
+}
+
+#border,td,th {
+    border: 1px solid;
+}
